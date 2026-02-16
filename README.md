@@ -12,9 +12,12 @@
 ### Heapsort quick test
 ```bash
 python heapsort.py
-
+```
 ### Priority Queue Demo
+```bash
 python priority_queue.py
-
+```
 ### Comparision benchmarking
+```bash
 python comparision.py
+```
